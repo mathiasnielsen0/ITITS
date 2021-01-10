@@ -1,0 +1,6 @@
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\HashLibrary\bin\Debug\HashLibrary.dll
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\HashLibrary\bin\Debug\HashLibrary.pdb
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\HashLibrary\obj\Debug\HashLibrary.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\HashLibrary\obj\Debug\HashLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\HashLibrary\obj\Debug\HashLibrary.dll
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\HashLibrary\obj\Debug\HashLibrary.pdb

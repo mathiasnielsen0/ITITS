@@ -1,0 +1,9 @@
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\AES_App\bin\Debug\AES_App.exe
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\AES_App\bin\Debug\AES_App.pdb
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\AES_App\bin\Debug\AES_Library.dll
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\AES_App\bin\Debug\AES_Library.pdb
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\AES_App\obj\Debug\AES_App.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\AES_App\obj\Debug\AES_App.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\AES_App\obj\Debug\AES_App.csproj.CopyComplete
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\AES_App\obj\Debug\AES_App.exe
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\AES_App\obj\Debug\AES_App.pdb

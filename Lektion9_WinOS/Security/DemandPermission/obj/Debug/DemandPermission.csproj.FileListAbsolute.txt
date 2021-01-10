@@ -1,0 +1,17 @@
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\DemandPermission\bin\Debug\DemandPermission.exe
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\DemandPermission\bin\Debug\DemandPermission.pdb
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\DemandPermission\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\DemandPermission\obj\Debug\DemandPermission.exe
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\DemandPermission\obj\Debug\DemandPermission.pdb
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\DemandPermission\obj\Debug\DemandPermission.exe
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\DemandPermission\obj\Debug\DemandPermission.pdb
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\DemandPermission\bin\Debug\DemandPermission.exe
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\DemandPermission\bin\Debug\DemandPermission.pdb
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\DemandPermission\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\05 Lifecycles and Security\Security\Security\DemandPermission\obj\Debug\DemandPermission.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\05 Lifecycles and Security\Security\Security\DemandPermission\obj\Debug\DemandPermission.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\DemandPermission\obj\Debug\DemandPermission.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\DemandPermission\obj\Debug\DemandPermission.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\DemandPermission\bin\Debug\DemandPermission.exe
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\DemandPermission\bin\Debug\DemandPermission.pdb
+C:\Users\PoulEjnar\Documents\Courses\ITKPU\Lektioner\06 Nuget and ProductLine Engineering\Security\Security\DemandPermission\obj\Debug\DemandPermission.csprojResolveAssemblyReference.cache

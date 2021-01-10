@@ -1,0 +1,10 @@
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\DenyPermission\bin\Debug\DenyPermission.exe
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\DenyPermission\bin\Debug\DenyPermission.pdb
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\DenyPermission\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\DenyPermission\obj\Debug\DenyPermission.exe
+C:\Dokumenter\KPU1\Lektioner\Lektion 14 Security\Security\DenyPermission\obj\Debug\DenyPermission.pdb
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\DenyPermission\bin\Debug\DenyPermission.exe
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\DenyPermission\bin\Debug\DenyPermission.pdb
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\DenyPermission\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\DenyPermission\obj\Debug\DenyPermission.exe
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 14 Security\Security\DenyPermission\obj\Debug\DenyPermission.pdb

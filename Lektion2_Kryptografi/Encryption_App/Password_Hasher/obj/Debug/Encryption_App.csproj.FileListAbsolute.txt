@@ -1,0 +1,9 @@
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\Encryption_App\bin\Debug\Encryption_App.exe
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\Encryption_App\bin\Debug\Encryption_App.pdb
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\Encryption_App\bin\Debug\HashLibrary.dll
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\Encryption_App\bin\Debug\HashLibrary.pdb
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\Encryption_App\obj\Debug\Encryption_App.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\Encryption_App\obj\Debug\Encryption_App.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\Encryption_App\obj\Debug\Encryption_App.csproj.CopyComplete
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\Encryption_App\obj\Debug\Encryption_App.exe
+C:\Users\mathi\source\repos\ITITS\Lektion2_Kryptografi\Encryption_App\Encryption_App\obj\Debug\Encryption_App.pdb

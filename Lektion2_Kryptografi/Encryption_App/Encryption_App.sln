@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password_Hasher", "Password_Hasher\Password_Hasher.csproj", "{BA01F040-181D-4F18-9CFA-C03E85F0FEA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashLibrary", "HashLibrary\HashLibrary.csproj", "{6627E604-0B59-4035-8AD4-72B65F35419E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password_Hasher_Salt", "Password_Hasher_Salt\Password_Hasher_Salt.csproj", "{CF41E3C4-E216-4BF9-9CD4-833F37528AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES_App", "AES_App\AES_App.csproj", "{F5205C6D-FBAB-4C5F-A0C8-6A937008356C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES_Library", "AES_Library\AES_Library.csproj", "{61F2C1CD-CE11-4D02-8ECD-3882F65FB283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA01F040-181D-4F18-9CFA-C03E85F0FEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA01F040-181D-4F18-9CFA-C03E85F0FEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA01F040-181D-4F18-9CFA-C03E85F0FEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA01F040-181D-4F18-9CFA-C03E85F0FEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6627E604-0B59-4035-8AD4-72B65F35419E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6627E604-0B59-4035-8AD4-72B65F35419E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6627E604-0B59-4035-8AD4-72B65F35419E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6627E604-0B59-4035-8AD4-72B65F35419E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF41E3C4-E216-4BF9-9CD4-833F37528AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF41E3C4-E216-4BF9-9CD4-833F37528AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF41E3C4-E216-4BF9-9CD4-833F37528AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF41E3C4-E216-4BF9-9CD4-833F37528AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5205C6D-FBAB-4C5F-A0C8-6A937008356C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5205C6D-FBAB-4C5F-A0C8-6A937008356C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5205C6D-FBAB-4C5F-A0C8-6A937008356C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5205C6D-FBAB-4C5F-A0C8-6A937008356C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F2C1CD-CE11-4D02-8ECD-3882F65FB283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F2C1CD-CE11-4D02-8ECD-3882F65FB283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F2C1CD-CE11-4D02-8ECD-3882F65FB283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F2C1CD-CE11-4D02-8ECD-3882F65FB283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
